@@ -31,9 +31,7 @@ sidebar:
         
       - idiom: English
         level: Advanced 
-        
-      - idiom: 
-        level: 
+
 
     interests:
       - item: music
@@ -115,7 +113,7 @@ projects:
         tagline: ""
         
       - title: Webside WordPress  
-        link: ""
+        link: "https://docs.google.com/document/d/1WDNhcCh5wZI7KjQfxKjhkXzgph6RcRo7C5zXwXj0w1k/edit?usp=sharing"
         tagline: "We ceated our own web site with WordPress and WooComerce. It was a project in the course Electronic business."
 skills:
     title: Skills &amp; Proficiency
