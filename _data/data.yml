@@ -137,20 +137,20 @@ skills:
       - name: Photoshop
         level: 90%
         
-education:
-     title: Other Skills
-       assignments:
-      - title: Driving License
-        tagline: "B category"
-        time: 2022
+    education:
+        title: Other Skills
+        assignments:
+        - title: Driving License
+          tagline: "B category"
+          time: 2022
         
         - title: Μusic Harmony
-        tagline: "Very Good"
-        time: 2017
+          tagline: "Very Good"
+          time: 2017
         
         - title: High School Diploma
-        tagline: "18.1/20"
-        time: 2018
+          tagline: "18.1/20"
+          time: 2018
 
      
       
