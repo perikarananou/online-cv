@@ -81,17 +81,20 @@ experiences:
       details: |
           During my studies, I have gained knowledge in the fields of study, design, analysis, implementation, installation, supervision, operation, evaluation, expertise and certification in areas related to computer software, IT, web applications, systems and graphic applications, image and speech processing, networks, etc.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Directions
+      time: 2020 - ...
+      company: Informatics - Humanities and Social Sciences
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
+        The main focus of the applications is the study of the impact of new Technologies on human thought, perception, work and creation, social relations, education, science, political and cultural action, as well as the impact of human presence, intellect and behavior, individual and group in the science of Informatics and Communications itself.
+        
+        Cognitive fields of this direction:
+          - Human-Computer Communication
+          - Artificial Intelligence
+          - Recreational Software Technology
+          - Natural Language Editing
+          - Computer Graphics 
+          - Multimedia Design and Management
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
