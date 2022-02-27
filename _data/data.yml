@@ -100,9 +100,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of the work created within the university:
     assignments:
       - title: Flappy Jellyfish Scrach Game
         link: https://scratch.mit.edu/projects/440561899/
@@ -110,11 +108,15 @@ projects:
 
       - title: 2D Unity game
         link: https://github.com/perikarananou/Unity2D
-        tagline: "."
+        tagline: ""
 
       - title: knowledge quiz Scrach Game 
         link: https://scratch.mit.edu/projects/470977854/
         tagline: ""
+        
+      - title: Webside WordPress  
+        link: ""
+        tagline: "We ceated our own web site with WordPress and WooComerce. It was a project in the course Electronic business."
 skills:
     title: Skills &amp; Proficiency
 
