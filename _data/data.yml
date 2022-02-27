@@ -136,6 +136,23 @@ skills:
 
       - name: Photoshop
         level: 90%
+        
+education:
+     title: Other Skills
+       assignments:
+      - title: Driving License
+        tagline: "B category"
+        time: 2022
+        
+        - title: Μusic Harmony
+        tagline: "8.5/10"
+        time: 2017
+        
+        - title: High School Diploma
+        tagline: "18.1/20"
+        time: 2018
 
+     
+      
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
