@@ -96,17 +96,7 @@ experiences:
           - Natural Language Editing
           - Computer Graphics 
           - Multimedia Design and Management
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 projects:
     title: Projects
     intro: >
@@ -129,23 +119,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C & C++
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
+      - name: Sketch
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Photoshop
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
