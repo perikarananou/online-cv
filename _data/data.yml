@@ -102,15 +102,15 @@ projects:
     assignments:
       - title: Flappy Jellyfish Scrach Game
         link: https://scratch.mit.edu/projects/440561899/
-        tagline: ""
+        tagline: "This game was an individual work created with Scrach. It was a project in the course Game development."
 
       - title: 2D Unity game
         link: https://github.com/perikarananou/Unity2D
-        tagline: ""
+        tagline: "We ceated our own game with Unity. It was a project in the course Multimedia."
 
       - title: knowledge quiz Scrach Game 
         link: https://scratch.mit.edu/projects/470977854/
-        tagline: ""
+        tagline: "This game was an individual work created with Scrach. It was a project in the course Game development."
         
       - title: Webside WordPress  
         link: "https://docs.google.com/document/d/1WDNhcCh5wZI7KjQfxKjhkXzgph6RcRo7C5zXwXj0w1k/edit?usp=sharing"
